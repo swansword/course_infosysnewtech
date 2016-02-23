@@ -1,4 +1,4 @@
-<font color=red>内容</font>
+<font color=#0099ff>内容</font>
 ## 课程编号
 B0305420
 ## 课程名称
