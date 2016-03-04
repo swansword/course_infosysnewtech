@@ -1,4 +1,6 @@
->*临时通知：*
+>*网站迁移通知：经同学反映Github在校园网中访问较慢，先已将本课程网站迁移到Coding.net上，请同学们今后通过如下网址访问：*
+
+>https://coding.net/u/swansword/p/course_infosysnewtech
 
 ### 课程编号
 B0305420
